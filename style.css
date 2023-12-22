@@ -179,6 +179,7 @@ gap: 30px;
 }
 
 .footer{
+    height: 80px;
     text-align: center;
     background-color: black;
     color: #fff;
