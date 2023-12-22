@@ -179,7 +179,8 @@ gap: 30px;
 }
 
 .footer{
-     background-color: black;
+    text-align: center;
+    background-color: black;
     color: #fff;
     text-shadow:
     0 0 5px #fff,
